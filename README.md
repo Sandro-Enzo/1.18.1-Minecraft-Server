@@ -1,0 +1,1 @@
+Server jar version: 1.18.1
