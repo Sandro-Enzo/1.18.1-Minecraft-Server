@@ -1,0 +1,2 @@
+rmdir -r .\world\
+pause
